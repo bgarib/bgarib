@@ -1,8 +1,6 @@
-### Hi, I'm Benjamin Garib
+### Benjamin Garib
 
-I turn business questions into data and data into decisions. Four years in FP&A, Investor Relations and Operational Excellence at CMPC, one of Latin America's largest pulp and paper companies, plus business intelligence at Viña Concha y Toro. Now completing the IE Business School dual degree: International MBA + Master in Business Analytics and Data Science, Madrid.
-
-Looking for strategy, consulting and analytics roles in Europe.
+Business analytics and strategy. I turn business questions into data and data into decisions, using Python, SQL and Tableau.
 
 ---
 
@@ -22,8 +20,3 @@ Looking for strategy, consulting and analytics roles in Europe.
 **Visualisation:** Tableau, Tableau Prep, matplotlib
 **Data engineering:** Apache Spark, Apache NiFi, Hadoop (HDFS, YARN, MapReduce), MinIO
 **Methods:** hypothesis testing, ANOVA, regression, clustering (k-means, DBSCAN), association rules
-**Business:** FP&A, investor relations, operational excellence, strategy
-
----
-
-🇨🇱 🇮🇹 Chilean-Italian, based in Madrid
