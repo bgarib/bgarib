@@ -10,9 +10,9 @@ Looking for strategy, consulting and analytics roles in Europe.
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [**Repsol 2035: Strategy Dashboard**](https://github.com/benjamingarib-coder/repsol-2035-strategy-dashboard) | 8 public datasets into a Tableau story and a board-level roadmap: Repsol fell from #200 to #282 in the Global 500; four moves with stop rules to fix it. [Live dashboard](https://public.tableau.com/views/Repsol_Dashboard_Garib/Repsol2035) | Python, pandas, Tableau, Tableau Prep |
-| [**IEG Holding Stock Database**](https://github.com/benjamingarib-coder/ieg-holding-stock-database) | Intraday stock data in IBM DB2: data-quality pivot, daily aggregation, 3 cascading foreign keys, tested end to end | SQL, IBM DB2, Python |
-| [**Relational Data Models**](https://github.com/benjamingarib-coder/relational-data-models) | 22-table grocery POS and a marina model where the schema itself blocks invalid bookings | MySQL, MySQL Workbench |
+| [**Repsol 2035: Strategy Dashboard**](https://github.com/bgarib/repsol-2035-strategy-dashboard) | 8 public datasets into a Tableau story and a board-level roadmap: Repsol fell from #200 to #282 in the Global 500; four moves with stop rules to fix it. [Live dashboard](https://public.tableau.com/views/Repsol_Dashboard_Garib/Repsol2035) | Python, pandas, Tableau, Tableau Prep |
+| [**IEG Holding Stock Database**](https://github.com/bgarib/ieg-holding-stock-database) | Intraday stock data in IBM DB2: data-quality pivot, daily aggregation, 3 cascading foreign keys, tested end to end | SQL, IBM DB2, Python |
+| [**Relational Data Models**](https://github.com/bgarib/relational-data-models) | 22-table grocery POS and a marina model where the schema itself blocks invalid bookings | MySQL, MySQL Workbench |
 
 ---
 
